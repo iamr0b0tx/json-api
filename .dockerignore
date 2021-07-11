@@ -1,0 +1,17 @@
+# Unit test / coverage reports
+htmlcov/
+.coverage
+.pytest_cache/
+
+# Environments
+.env
+venv/
+
+# Pyre type checker
+.idea
+
+.git
+.github
+__pycache__
+staticfiles/
+db.sqlite3
